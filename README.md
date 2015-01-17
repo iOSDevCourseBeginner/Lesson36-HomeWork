@@ -37,6 +37,5 @@
 
 Вот такое вот задание, а что вы хотели, это вам не хиханьки хахоньки :) Работать надо, много причем, детский сад закончился :)
 
-
-![iPad - LVL ‘Master’](http://cl.ly/ZLyw «iPad - LVL ‘Master’»)
-![iPad - LVL ‘Master’](https://s3.amazonaws.com/f.cl.ly/items/2g0T0N0Q0n0P062v0p1W/LS36-screen-iPad.jpg «iPad - LVL ‘Master’»)
+![iPhone - LVL ‘Master’](https://raw.githubusercontent.com/iOSDevCourseBeginner/Lesson36-HomeWork/master/LS36-screen-iPhone.jpg)
+![iPad - LVL ‘Master’](https://raw.githubusercontent.com/iOSDevCourseBeginner/Lesson36-HomeWork/master/LS36-screen-iPad.jpg)
